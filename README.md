@@ -11,4 +11,5 @@ Carousel for smooth scrolling interactions of reviews
 Technologies Used:
 
 FigAct Plugin: Utilized to convert Figma designs to responsive React code with React Router and hooks.
+
 Carousel Plugin: Used for implementing the scroll interaction of reviews.
